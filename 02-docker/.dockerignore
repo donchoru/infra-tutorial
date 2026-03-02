@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+.venv
+.git
+.gitignore
+*.md
+01-baremetal
+03-kubernetes
+docs

@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+  namespace: infra-tutorial
+data:
+  DEPLOY_ENV: "kubernetes"
